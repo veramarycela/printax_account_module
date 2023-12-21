@@ -9,7 +9,7 @@ El módulo en Odoo para imprimir a impresor fiscal via el programa server/spoole
 Odoo >> spooler >> Impresora Fiscal
 
 Versión 1.2.1 [compatible con la nueva providencia del IGTF]
-Compatible con IMPRESORAS FISCALES THE FACTORY HKA Y PNP EPSON Venezuela / Panama
+Compatible con IMPRESORAS FISCALES THE FACTORY HKA Y PNP EPSON Venezuela
 La licencia demo y/o permanente del aplicativo ejecutable se solicita con serial del impresor y RIF
 
 El módulo utiliza el programa ejecutable bajo Windows para emitir facturas en impresores fiscales desde
